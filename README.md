@@ -6,7 +6,7 @@
 
 <h2>Project Screenshots:</h2>
 <p>Login Page</p>
-<img src="./public/img/login.png" alt="project-screenshot" width="1500" height="400/">
+<img src="./public/img/loginpage.png" alt="project-screenshot" width="1500" height="400/">
 <p>Signup Page</p>
 <img src="./public/img/signuppage.png" alt="project-screenshot" width="1500" height="400/">
 <p>GroupChat Homepage</p>
