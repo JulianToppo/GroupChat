@@ -38,6 +38,9 @@ Here're some of the project's best features:
 <h2>🛠️ Installation Steps:</h2>
 
 <p>1. Clone the repository</p>
+```
+git clone https://github.com/JulianToppo/GroupChat.git
+```
 <p>2. Set the environment variables</p>
 
 <p>3. Install node dependencies</p>
