@@ -6,22 +6,22 @@
 
 <h2>Project Screenshots:</h2>
 <p>Login Page</p>
-<img src="./public/img/loginpage.png" alt="project-screenshot" width="1500" height="700/">
+<img align="center" src="./public/img/loginpage.png" alt="project-screenshot" width="1500" height="500/">
 <p>Signup Page</p>
-<img src="./public/img/signuppage.png" alt="project-screenshot" width="1500" height="700/">
+<img src="./public/img/signuppage.png" alt="project-screenshot" width="1500" height="500/">
 <p>GroupChat Homepage</p>
-<img src="./public/img/homepage.png" alt="project-screenshot" width="1500" height="700/">
+<img src="./public/img/homepage.png" alt="project-screenshot" width="1500" height="500/">
 <p>Invite Requests</p>
-<img src="./public/img/inviterequests.png" alt="project-screenshot" width="2000" height="700/">
+<img src="./public/img/inviterequests.png" alt="project-screenshot" width="2000" height="500/">
 <p>Real time notification when invites are received </p>
-<img src="./public/img/realtimenotification.png" alt="project-screenshot" width="1500" height="700/">
-<img src="./public/img/realtimenotification2.png" alt="project-screenshot" width="1500" height="700/">
+<img src="./public/img/realtimenotification.png" alt="project-screenshot" width="1500" height="500/">
+<img src="./public/img/realtimenotification2.png" alt="project-screenshot" width="850" height="700/">
 <p>Pending Requests</p>
-<img src="./public/img/pendingRequest.png" alt="project-screenshot" width="1500" height="700/">
+<img src="./public/img/pendingRequest.png" alt="project-screenshot" width="1500" height="500/">
 <p>Group Members</p>
-<img src="./public/img/groupmembers.png" alt="project-screenshot" width="1500" height="700/">
+<img src="./public/img/groupmembers.png" alt="project-screenshot" width="1500" height="500/">
 <p>Real time conversation</p>
-<img src="./public/img/realtimeconversation.png" alt="project-screenshot" width="1500" height="700/">
+<img src="./public/img/realtimeconversation.png" alt="project-screenshot" width="1500" height="350/">
 
   
   
